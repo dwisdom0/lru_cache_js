@@ -1,0 +1,14 @@
+{
+  "name": "lru_cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lru_cache.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Wisdom",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
